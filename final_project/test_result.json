@@ -1,0 +1,1510 @@
+[
+{
+  "program": "CBMC 5.6"
+},
+{
+  "messageText": "CBMC version 5.6 64-bit x86_64 linux",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Parsing ./ads-standard.c",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "<command-line>:0:0: warning: \"__STDC_VERSION__\" redefined",
+  "messageType": "WARNING"
+},
+{
+  "messageText": "<built-in>: note: this is the location of the previous definition",
+  "messageType": "WARNING"
+},
+{
+  "messageText": "./ads-standard.c:206:0: warning: \"MAX_CARS\" redefined",
+  "messageType": "WARNING"
+},
+{
+  "messageText": " #define MAX_CARS 1",
+  "messageType": "WARNING"
+},
+{
+  "messageText": " ",
+  "messageType": "WARNING"
+},
+{
+  "messageText": "./ads-standard.c:8:0: note: this is the location of the previous definition",
+  "messageType": "WARNING"
+},
+{
+  "messageText": " #define MAX_CARS 7",
+  "messageType": "WARNING"
+},
+{
+  "messageText": " ",
+  "messageType": "WARNING"
+},
+{
+  "messageText": "Converting",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Type-checking ads-standard",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Generating GOTO Program",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Adding CPROVER library (x86_64)",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "<command-line>:0:0: warning: \"__STDC_VERSION__\" redefined",
+  "messageType": "WARNING"
+},
+{
+  "messageText": "<built-in>: note: this is the location of the previous definition",
+  "messageType": "WARNING"
+},
+{
+  "messageText": "Removal of function pointers and virtual functions",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Partial Inlining",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Generic Property Instrumentation",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Starting Bounded Model Checking",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop main.0 iteration 1 (6 max) file ./ads-standard.c line 219 function main thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 1 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 2 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 3 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 4 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 5 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Not unwinding loop CheckCollision.0 iteration 6 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 1 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 2 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 3 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 4 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 5 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Not unwinding loop CheckCollision.0 iteration 6 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 1 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 2 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 3 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 4 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 5 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Not unwinding loop CheckCollision.0 iteration 6 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 1 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 2 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 3 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 4 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 5 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Not unwinding loop CheckCollision.0 iteration 6 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 1 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 2 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 3 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 4 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 5 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Not unwinding loop CheckCollision.0 iteration 6 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 1 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 2 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 3 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 4 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Unwinding loop CheckCollision.0 iteration 5 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Not unwinding loop CheckCollision.0 iteration 6 (6 max) file ./ads-standard.c line 39 function CheckCollision thread 0",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "size of program expression: 1947 steps",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "simple slicing removed 5 assignments",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Generated 2 VCC(s), 2 remaining after simplification",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Passing problem to propositional reduction",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "converting SSA",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Running propositional reduction",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Post-processing",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Solving with MiniSAT 2.2.1 with simplifier",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "93237 variables, 385780 clauses",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "SAT checker: instance is SATISFIABLE",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Runtime decision procedure: 1.161s",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "messageText": "Building error trace",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "results": [
+    {
+      "description": "or there will be a collision",
+      "property": "main.assertion.1",
+      "status": "failed",
+      "trace": [
+        {
+          "function": {
+            "displayName": "__CPROVER_initialize",
+            "identifier": "__CPROVER_initialize",
+            "sourceLocation": {
+              "file": "<built-in-additions>",
+              "line": "22"
+            }
+          },
+          "hidden": false,
+          "stepType": "function-call",
+          "thread": 0
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "__CPROVER_dead_object",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "<built-in-additions>",
+            "line": "39"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "0000000000000000000000000000000000000000000000000000000000000000",
+            "name": "pointer"
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "__CPROVER_deallocated",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "<built-in-additions>",
+            "line": "38"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "0000000000000000000000000000000000000000000000000000000000000000",
+            "name": "pointer"
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "__CPROVER_malloc_is_new_array",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "<built-in-additions>",
+            "line": "42"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "0",
+            "data": false,
+            "name": "boolean"
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "__CPROVER_malloc_object",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "<built-in-additions>",
+            "line": "40"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "0000000000000000000000000000000000000000000000000000000000000000",
+            "name": "pointer"
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "__CPROVER_malloc_size",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "<built-in-additions>",
+            "line": "41"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "0000000000000000000000000000000000000000000000000000000000000000",
+            "c_type": "unsigned long int",
+            "data": "0",
+            "name": "integer",
+            "width": 64
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "__CPROVER_memory_leak",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "<built-in-additions>",
+            "line": "43"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "0000000000000000000000000000000000000000000000000000000000000000",
+            "name": "pointer"
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "__CPROVER_next_thread_id",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "<built-in-additions>",
+            "line": "31"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "0000000000000000000000000000000000000000000000000000000000000000",
+            "c_type": "unsigned long int",
+            "data": "0",
+            "name": "integer",
+            "width": 64
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "__CPROVER_pipe_count",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "<built-in-additions>",
+            "line": "85"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000000000000000000000000000",
+            "c_type": "unsigned int",
+            "data": "0",
+            "name": "integer",
+            "width": 32
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "__CPROVER_rounding_mode",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "<built-in-additions>",
+            "line": "65"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000000000000000000000000000",
+            "c_type": "int",
+            "data": "0",
+            "name": "integer",
+            "width": 32
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "__CPROVER_thread_id",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "<built-in-additions>",
+            "line": "29"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "0000000000000000000000000000000000000000000000000000000000000000",
+            "c_type": "unsigned long int",
+            "data": "0",
+            "name": "integer",
+            "width": 64
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "__CPROVER_threads_exited",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "<built-in-additions>",
+            "line": "30"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "name": "unknown"
+          }
+        },
+        {
+          "function": {
+            "displayName": "__CPROVER_initialize",
+            "identifier": "__CPROVER_initialize",
+            "sourceLocation": {
+              "file": "<built-in-additions>",
+              "line": "22"
+            }
+          },
+          "hidden": false,
+          "stepType": "function-return",
+          "thread": 0
+        },
+        {
+          "hidden": false,
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "line": "102"
+          },
+          "stepType": "location-only",
+          "thread": 0
+        },
+        {
+          "function": {
+            "displayName": "main",
+            "identifier": "main",
+            "sourceLocation": {
+              "file": "./ads-standard.c",
+              "line": "102"
+            }
+          },
+          "hidden": false,
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "line": "102"
+          },
+          "stepType": "function-call",
+          "thread": 0
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "vehicles",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "207"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "elements": [
+              {
+                "index": 0,
+                "value": {
+                  "members": [
+                    {
+                      "name": "lane",
+                      "value": {
+                        "binary": "00000000",
+                        "c_type": "unsigned char",
+                        "data": "0",
+                        "name": "integer",
+                        "width": 8
+                      }
+                    },
+                    {
+                      "name": "$pad0",
+                      "value": {
+                        "binary": "000000000000000000000000",
+                        "data": "0",
+                        "name": "integer",
+                        "width": 24
+                      }
+                    },
+                    {
+                      "name": "speed",
+                      "value": {
+                        "binary": "00000000000000000000000000000000",
+                        "c_type": "int",
+                        "data": "0",
+                        "name": "integer",
+                        "width": 32
+                      }
+                    },
+                    {
+                      "name": "position",
+                      "value": {
+                        "binary": "00000000000000000000000000000000",
+                        "c_type": "int",
+                        "data": "0",
+                        "name": "integer",
+                        "width": 32
+                      }
+                    }
+                  ],
+                  "name": "struct"
+                }
+              }
+            ],
+            "name": "array"
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "ego",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "208"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "members": [
+              {
+                "name": "lane",
+                "value": {
+                  "binary": "00000000",
+                  "c_type": "unsigned char",
+                  "data": "0",
+                  "name": "integer",
+                  "width": 8
+                }
+              },
+              {
+                "name": "$pad0",
+                "value": {
+                  "binary": "000000000000000000000000",
+                  "data": "0",
+                  "name": "integer",
+                  "width": 24
+                }
+              },
+              {
+                "name": "speed",
+                "value": {
+                  "binary": "00000000000000000000000000000000",
+                  "c_type": "int",
+                  "data": "0",
+                  "name": "integer",
+                  "width": 32
+                }
+              },
+              {
+                "name": "position",
+                "value": {
+                  "binary": "00000000000000000000000000000000",
+                  "c_type": "int",
+                  "data": "0",
+                  "name": "integer",
+                  "width": 32
+                }
+              }
+            ],
+            "name": "struct"
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "collision",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "209"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000",
+            "c_type": "unsigned char",
+            "data": "0",
+            "name": "integer",
+            "width": 8
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "collision",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "209"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000",
+            "c_type": "unsigned char",
+            "data": "0",
+            "name": "integer",
+            "width": 8
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "ego.lane",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "212"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000",
+            "c_type": "unsigned char",
+            "data": "0",
+            "name": "integer",
+            "width": 8
+          }
+        },
+        {
+          "hidden": false,
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "213"
+          },
+          "stepType": "location-only",
+          "thread": 0
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "ego.position",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "214"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000000000000000000000110010",
+            "c_type": "int",
+            "data": "50",
+            "name": "integer",
+            "width": 32
+          }
+        },
+        {
+          "hidden": false,
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "215"
+          },
+          "stepType": "location-only",
+          "thread": 0
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "ego.speed",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "216"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000000000000000000000000110",
+            "c_type": "int",
+            "data": "6",
+            "name": "integer",
+            "width": 32
+          }
+        },
+        {
+          "hidden": false,
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "217"
+          },
+          "stepType": "location-only",
+          "thread": 0
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "i",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "219"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000",
+            "c_type": "unsigned char",
+            "data": "0",
+            "name": "integer",
+            "width": 8
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "i",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "219"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000",
+            "c_type": "unsigned char",
+            "data": "0",
+            "name": "integer",
+            "width": 8
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "vehicles[(signed long int)i!0@1].lane",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "220"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000",
+            "c_type": "unsigned char",
+            "data": "0",
+            "name": "integer",
+            "width": 8
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "tmp_if_expr$1",
+          "mode": "",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "221"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "0",
+            "data": false,
+            "name": "boolean"
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "tmp_if_expr$1",
+          "mode": "",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "221"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "1",
+            "data": true,
+            "name": "boolean"
+          }
+        },
+        {
+          "hidden": false,
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "221"
+          },
+          "stepType": "location-only",
+          "thread": 0
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "vehicles[(signed long int)i!0@1].position",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "223"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000000000000000000000111100",
+            "c_type": "int",
+            "data": "60",
+            "name": "integer",
+            "width": 32
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "tmp_if_expr$2",
+          "mode": "",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "224"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "0",
+            "data": false,
+            "name": "boolean"
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "tmp_if_expr$2",
+          "mode": "",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "224"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "1",
+            "data": true,
+            "name": "boolean"
+          }
+        },
+        {
+          "hidden": false,
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "224"
+          },
+          "stepType": "location-only",
+          "thread": 0
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "vehicles[(signed long int)i!0@1].speed",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "226"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000000000000000000000111111",
+            "c_type": "int",
+            "data": "63",
+            "name": "integer",
+            "width": 32
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "tmp_if_expr$3",
+          "mode": "",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "227"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "0",
+            "data": false,
+            "name": "boolean"
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "tmp_if_expr$3",
+          "mode": "",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "227"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "1",
+            "data": true,
+            "name": "boolean"
+          }
+        },
+        {
+          "hidden": false,
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "227"
+          },
+          "stepType": "location-only",
+          "thread": 0
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "i",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "219"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000001",
+            "c_type": "unsigned char",
+            "data": "1",
+            "name": "integer",
+            "width": 8
+          }
+        },
+        {
+          "hidden": false,
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "231"
+          },
+          "stepType": "location-only",
+          "thread": 0
+        },
+        {
+          "function": {
+            "displayName": "CheckCollision",
+            "identifier": "CheckCollision",
+            "sourceLocation": {
+              "file": "./ads-standard.c",
+              "line": "35"
+            }
+          },
+          "hidden": false,
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "231"
+          },
+          "stepType": "function-call",
+          "thread": 0
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "ego",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "231"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "members": [
+              {
+                "name": "lane",
+                "value": {
+                  "binary": "00000000",
+                  "c_type": "unsigned char",
+                  "data": "0",
+                  "name": "integer",
+                  "width": 8
+                }
+              },
+              {
+                "name": "$pad0",
+                "value": {
+                  "binary": "000000000000000000000000",
+                  "data": "0",
+                  "name": "integer",
+                  "width": 24
+                }
+              },
+              {
+                "name": "speed",
+                "value": {
+                  "binary": "00000000000000000000000000000110",
+                  "c_type": "int",
+                  "data": "6",
+                  "name": "integer",
+                  "width": 32
+                }
+              },
+              {
+                "name": "position",
+                "value": {
+                  "binary": "00000000000000000000000000110010",
+                  "c_type": "int",
+                  "data": "50",
+                  "name": "integer",
+                  "width": 32
+                }
+              }
+            ],
+            "name": "struct"
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "vehicles",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "231"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "0000001000000000000000000000000000000000000000000000000000000000",
+            "name": "pointer"
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "seconds",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "231"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000000000000000000000000000",
+            "c_type": "int",
+            "data": "0",
+            "name": "integer",
+            "width": 32
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "ego_next_pose",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "CheckCollision",
+            "line": "37"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000000000000000000000000000",
+            "c_type": "int",
+            "data": "0",
+            "name": "integer",
+            "width": 32
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "ego_next_pose",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "CheckCollision",
+            "line": "37"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000000000000000000000110010",
+            "c_type": "int",
+            "data": "50",
+            "name": "integer",
+            "width": 32
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "other_next_pose",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "CheckCollision",
+            "line": "38"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000000000000000000000000000",
+            "c_type": "int",
+            "data": "0",
+            "name": "integer",
+            "width": 32
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "other_next_pose",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "CheckCollision",
+            "line": "38"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000000000000000000000000000",
+            "c_type": "int",
+            "data": "0",
+            "name": "integer",
+            "width": 32
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "i",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "CheckCollision",
+            "line": "39"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000",
+            "c_type": "unsigned char",
+            "data": "0",
+            "name": "integer",
+            "width": 8
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "i",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "CheckCollision",
+            "line": "39"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000",
+            "c_type": "unsigned char",
+            "data": "0",
+            "name": "integer",
+            "width": 8
+          }
+        },
+        {
+          "hidden": false,
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "CheckCollision",
+            "line": "41"
+          },
+          "stepType": "location-only",
+          "thread": 0
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "other_next_pose",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "CheckCollision",
+            "line": "43"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000000000000000000000111100",
+            "c_type": "int",
+            "data": "60",
+            "name": "integer",
+            "width": 32
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "return_value_abs$1",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "CheckCollision",
+            "line": "45"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000000000000000000000000000",
+            "c_type": "int",
+            "data": "0",
+            "name": "integer",
+            "width": 32
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "i",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "CheckCollision",
+            "line": "45"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000000000000000000000000000",
+            "c_type": "int",
+            "data": "0",
+            "name": "integer",
+            "width": 32
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "i",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "CheckCollision",
+            "line": "45"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "11111111111111111111111111110110",
+            "c_type": "int",
+            "data": "-10",
+            "name": "integer",
+            "width": 32
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "return_value_abs$1",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "<builtin-library-abs>",
+            "function": "abs",
+            "line": "4"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000000000000000000000000001010",
+            "c_type": "int",
+            "data": "10",
+            "name": "integer",
+            "width": 32
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "tmp_if_expr$2",
+          "mode": "",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "CheckCollision",
+            "line": "45"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "0",
+            "data": false,
+            "name": "boolean"
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "tmp_if_expr$2",
+          "mode": "",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "CheckCollision",
+            "line": "45"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "0",
+            "data": false,
+            "name": "boolean"
+          }
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": true,
+          "lhs": "CheckCollision#return_value",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "CheckCollision",
+            "line": "50"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000001",
+            "c_type": "unsigned char",
+            "data": "1",
+            "name": "integer",
+            "width": 8
+          }
+        },
+        {
+          "function": {
+            "displayName": "CheckCollision",
+            "identifier": "CheckCollision",
+            "sourceLocation": {
+              "file": "./ads-standard.c",
+              "line": "35"
+            }
+          },
+          "hidden": false,
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "CheckCollision",
+            "line": "54"
+          },
+          "stepType": "function-return",
+          "thread": 0
+        },
+        {
+          "assignmentType": "variable",
+          "hidden": false,
+          "lhs": "collision",
+          "mode": "C",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "231"
+          },
+          "stepType": "assignment",
+          "thread": 0,
+          "value": {
+            "binary": "00000001",
+            "c_type": "unsigned char",
+            "data": "1",
+            "name": "integer",
+            "width": 8
+          }
+        },
+        {
+          "hidden": false,
+          "property": "main.assertion.1",
+          "reason": "or there will be a collision",
+          "sourceLocation": {
+            "file": "./ads-standard.c",
+            "function": "main",
+            "line": "232"
+          },
+          "stepType": "failure",
+          "thread": 0
+        }
+      ]
+    }
+  ]
+},
+{
+  "messageText": "VERIFICATION FAILED",
+  "messageType": "STATUS-MESSAGE"
+},
+{
+  "cProverStatus": "failure"
+}
+]
